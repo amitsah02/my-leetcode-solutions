@@ -7,6 +7,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
@@ -22,4 +23,12 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
