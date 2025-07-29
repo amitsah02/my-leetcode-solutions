@@ -36,8 +36,17 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0006-zigzag-conversion](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
