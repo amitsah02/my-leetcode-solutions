@@ -10,6 +10,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
