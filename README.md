@@ -46,6 +46,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
@@ -83,4 +84,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
