@@ -59,6 +59,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0007-reverse-integer](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +105,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
