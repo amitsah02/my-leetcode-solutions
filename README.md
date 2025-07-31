@@ -12,6 +12,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0027-remove-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
