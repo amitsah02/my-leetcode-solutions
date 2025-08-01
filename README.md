@@ -14,6 +14,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0001-two-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
