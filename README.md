@@ -83,6 +83,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0021-merge-two-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0025-reverse-nodes-in-k-group](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
