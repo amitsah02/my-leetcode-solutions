@@ -153,4 +153,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
