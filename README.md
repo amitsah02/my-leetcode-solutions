@@ -19,6 +19,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -176,4 +178,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
