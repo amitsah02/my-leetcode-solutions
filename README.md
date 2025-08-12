@@ -20,6 +20,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Recursion
 |  |
 | ------- |
