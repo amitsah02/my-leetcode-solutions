@@ -54,6 +54,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0021-merge-two-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sorting
@@ -134,6 +136,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0024-swap-nodes-in-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Heap (Priority Queue)
@@ -148,6 +151,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## String Matching
 |  |
