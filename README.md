@@ -22,6 +22,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -102,6 +103,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Recursion
@@ -223,4 +225,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
