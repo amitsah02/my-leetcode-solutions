@@ -20,6 +20,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
@@ -95,6 +96,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
@@ -229,4 +231,12 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
