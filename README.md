@@ -98,6 +98,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0136-single-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Union Find
 |  |
