@@ -27,6 +27,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
@@ -102,6 +103,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
