@@ -28,6 +28,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
