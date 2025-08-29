@@ -25,6 +25,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0125-valid-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
