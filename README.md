@@ -109,6 +109,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
