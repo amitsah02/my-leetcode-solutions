@@ -30,6 +30,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -79,6 +80,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0033-search-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
