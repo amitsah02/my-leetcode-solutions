@@ -40,6 +40,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0890-lemonade-change](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
@@ -64,6 +65,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
+| [0890-lemonade-change](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
