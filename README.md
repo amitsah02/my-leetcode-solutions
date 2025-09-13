@@ -42,6 +42,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0275-h-index-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
