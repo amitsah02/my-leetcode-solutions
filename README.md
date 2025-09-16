@@ -37,6 +37,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
@@ -236,6 +238,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Tree
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +284,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -308,4 +313,12 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
