@@ -235,6 +235,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0476-number-complement](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0899-binary-gap) |
 ## Union Find
 |  |
