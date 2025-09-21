@@ -152,6 +152,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
+| [1610-xor-operation-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0899-binary-gap) |
+| [1610-xor-operation-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Union Find
 |  |
 | ------- |
