@@ -64,6 +64,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
 |  |
@@ -136,6 +137,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -195,6 +197,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Backtracking
@@ -243,6 +246,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0899-binary-gap) |
