@@ -58,6 +58,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -132,6 +133,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0168-excel-sheet-column-title](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
