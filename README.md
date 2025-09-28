@@ -140,6 +140,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -237,6 +238,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 ## String Matching
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
