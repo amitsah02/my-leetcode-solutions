@@ -153,6 +153,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0007-reverse-integer](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
@@ -189,6 +190,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0021-merge-two-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
