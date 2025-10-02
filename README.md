@@ -24,6 +24,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -114,6 +116,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -208,6 +211,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -325,6 +329,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Breadth-First Search
