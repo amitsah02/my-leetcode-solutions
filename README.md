@@ -61,6 +61,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0125-valid-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
@@ -240,6 +242,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Heap (Priority Queue)
 |  |
