@@ -98,6 +98,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -244,6 +245,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0908-middle-of-the-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
