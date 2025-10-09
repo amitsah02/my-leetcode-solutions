@@ -93,6 +93,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0125-valid-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -121,6 +122,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0004-median-of-two-sorted-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -217,6 +219,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0179-largest-number) |
@@ -248,6 +251,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -262,6 +266,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Stack
 |  |
