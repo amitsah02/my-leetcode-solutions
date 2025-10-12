@@ -110,6 +110,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0033-search-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -290,6 +291,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0136-single-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -310,6 +312,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -325,6 +328,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Database
 |  |
