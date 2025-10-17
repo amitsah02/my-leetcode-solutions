@@ -9,7 +9,7 @@ class Solution {
         long b = Math.abs((long) divisor);
         int result = 0;
 
-        // Subtract divisor from dividend using bit shifting (double the divisor)
+        // Subtract divisor from dividend using bit shifting (double  divisor)
         while (a >= b) {
             long temp = b, multiple = 1;
             while (a >= (temp << 1)) {
