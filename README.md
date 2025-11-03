@@ -16,6 +16,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0033-search-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -275,6 +276,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -401,4 +403,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
