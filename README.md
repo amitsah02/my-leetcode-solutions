@@ -84,6 +84,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0018-4sum) |
@@ -134,6 +135,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
@@ -186,6 +188,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
