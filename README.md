@@ -16,6 +16,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0033-search-in-rotated-sorted-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0020-valid-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0068-text-justification](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
@@ -415,4 +417,8 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
