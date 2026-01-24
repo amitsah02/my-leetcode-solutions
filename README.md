@@ -72,6 +72,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
@@ -160,6 +161,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0318-maximum-product-of-word-lengths](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -368,6 +370,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Breadth-First Search
 |  |
