@@ -75,6 +75,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0383-ransom-note](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -330,6 +331,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Database
 |  |
 | ------- |
