@@ -53,6 +53,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +303,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -390,11 +393,13 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +418,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
