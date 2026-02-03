@@ -299,6 +299,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0143-reorder-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0385-mini-parser) |
 ## String Matching
@@ -447,4 +448,12 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
