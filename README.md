@@ -182,6 +182,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0012-integer-to-roman](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -205,6 +206,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0010-regular-expression-matching](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
@@ -426,6 +428,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Graph
