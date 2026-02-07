@@ -108,6 +108,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -172,6 +173,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0399-evaluate-division](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0647-palindromic-substrings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Math
@@ -218,6 +220,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0392-is-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0647-palindromic-substrings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
