@@ -33,6 +33,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0275-h-index-ii) |
