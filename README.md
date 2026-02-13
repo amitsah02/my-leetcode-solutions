@@ -47,6 +47,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0416-partition-equal-subset-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0409-longest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0368-largest-divisible-subset](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0472-concatenated-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -396,6 +399,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
 ## Counting Sort
 |  |
@@ -403,6 +407,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Breadth-First Search
 |  |
