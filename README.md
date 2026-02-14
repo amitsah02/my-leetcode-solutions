@@ -56,6 +56,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2401-longest-nice-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0476-number-complement](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0476-number-complement) |
 | [0899-binary-gap](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0899-binary-gap) |
 | [1610-xor-operation-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [2401-longest-nice-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Union Find
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [2401-longest-nice-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Counting Sort
 |  |
 | ------- |
