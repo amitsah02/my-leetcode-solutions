@@ -55,6 +55,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0968-beautiful-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2401-longest-nice-subarray](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -83,6 +84,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0326-power-of-three](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +278,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0628-maximum-product-of-three-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +442,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
