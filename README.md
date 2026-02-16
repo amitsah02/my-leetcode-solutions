@@ -71,6 +71,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0141-linked-list-cycle](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0148-sort-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0344-reverse-string) |
@@ -201,6 +203,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0231-power-of-two) |
