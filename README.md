@@ -123,6 +123,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0908-middle-of-the-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amitsah02/my-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0792-binary-search](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0792-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | [0516-longest-palindromic-subsequence](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
@@ -336,6 +339,7 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -430,12 +434,14 @@ Personal Java solutions to LeetCode problems. Organized by topic for efficient r
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amitsah02/my-leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/amitsah02/my-leetcode-solutions/tree/master/1044-longest-duplicate-substring) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/amitsah02/my-leetcode-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
